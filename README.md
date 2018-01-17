@@ -3,6 +3,8 @@
 #### A personal coding challenge to tackle a [Codewar Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, 75, 100, 150, 200, 250, 300 and 365 days.
 
 Start Date: November 21, 2017</br>
+_[Solutions Links (CodePen)](https://codepen.io/collection/XMJOMV/)_
+<br>
 
 Day 100:
 </br>
@@ -13,6 +15,7 @@ Day 57:&nbsp;&nbsp; [Calculate Hypotenuse of Right-angled Triangle](https://www.
 Day 50:
 </br>
 ...
+</br>
 Day 20:&nbsp;&nbsp; [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a)
 </br>
 Day 19:&nbsp;&nbsp; [Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780)
