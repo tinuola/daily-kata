@@ -8,6 +8,8 @@ _[Solutions Links (CodePen)](https://codepen.io/collection/XMJOMV/)_
 
 *(Day75)...*
 </br>
+[Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b)
+</br>
 [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 </br>
 [Calculate Hypotenuse of Right-angled Triangle](https://www.codewars.com/kata/525a3d6b85a9a47fcf00055a)
@@ -26,7 +28,41 @@ _[Solutions Links (CodePen)](https://codepen.io/collection/XMJOMV/)_
 </br>
 **(Day50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732)
 </br>
-...
+[Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a)
+<br>
+[Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003)
+<br>
+[Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006)
+<br>
+[Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2)
+<br>
+[Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
+<br>
+[KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1)
+<br>
+[Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+<br>
+[Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
+<br>
+[Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
+<br>
+[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
+<br>
+[Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f)
+<br>
+[Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055)
+<br>
+[Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d)
+<br>
+[Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746)
+<br>
+[Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
+<br>
+[Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058)
+<br>
+[Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)
+<br>
+[Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
 <br>
 **(Day30)** [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 </br>
