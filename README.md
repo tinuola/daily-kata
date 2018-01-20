@@ -8,6 +8,8 @@ _[Solutions Links (CodePen)](https://codepen.io/collection/XMJOMV/)_
 
 *(Day75)...*
 </br>
+[What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
+</br>
 [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b)
 </br>
 [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
