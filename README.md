@@ -8,6 +8,12 @@ _[Solutions Links (CodePen)](https://codepen.io/collection/XMJOMV/)_
 
 *(Day75)...*
 </br>
+[Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
+</br>
+[Happy Numbers](https://www.codewars.com/kata/59d53c3039c23b404200007e)
+</br>
+[The Sceptical Kid Generator](https://www.codewars.com/kata/570957fc20a35bd2df0004f9)
+</br>
 [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835)
 </br>
 [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b)
