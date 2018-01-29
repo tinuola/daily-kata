@@ -3,10 +3,18 @@
 #### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, 75, 100, 150, 200, 250, 300 and 365 days.
 
 Start Date: November 21, 2017</br>
-_[Solutions Links (CodePen)](https://codepen.io/collection/XMJOMV/)_
+_[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
 
 *(Day75)...*
+<br>
+[Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8)
+<br>
+[Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2)
+<br>
+[Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025)
+<br>
+[Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032)
 </br>
 [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7)
 </br>
