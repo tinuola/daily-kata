@@ -5,8 +5,24 @@
 Start Date: November 21, 2017</br>
 _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
-
-*(Day75)...*
+*(Day100)...*
+[Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
+<br>
+[Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083)
+<br>
+**(Day75)**[Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004)
+<br>
+[Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c)
+<br>
+[Shorten Me: Mad Mathematician's Algorithm I (Addition)](https://www.codewars.com/kata/5a6855c2e6be38cdbf000026)
+<br>
+[Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
+<br>
+[80's Kids #1: How Many Licks Does it Take?](https://www.codewars.com/kata/566091b73e119a073100003a)
+<br>
+[Regexp Basics - is it a hexadecimal number?](https://www.codewars.com/kata/567c9f56d83baeed8300000f)
+<br>
+[One down](https://www.codewars.com/kata/56419475931903e9d1000087)
 <br>
 [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8)
 <br>
