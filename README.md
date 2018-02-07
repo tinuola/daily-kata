@@ -5,7 +5,9 @@
 Start Date: November 21, 2017</br>
 _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
+<br>
 *(Day100)...*
+<br>
 [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
 <br>
 [Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083)
