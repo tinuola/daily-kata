@@ -1,12 +1,23 @@
 # daily-kata
 ![Codewar Badge](https://www.codewars.com/users/tinuola/badges/large)</br>
-#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, 75, 100, 150, 200, 250, 300 and 365 days.
+#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, 100, 150, 200, 250, 300 and 365 days.
 
 Start Date: November 21, 2017</br>
 _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
 <br>
 *(Day100)...*
+<br>
+<br>
+[Sum of Array Averages](https://www.codewars.com/kata/56d5166ec87df55dbe000063)
+<br>
+[Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b)
+<br>
+[Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410)
+<br>
+[Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)
+<br>
+[Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23)
 <br>
 [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae)
 <br>
