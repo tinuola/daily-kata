@@ -70,260 +70,76 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
 </br>
 [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)
-</br>
-**(Day50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732)
-</br>
-[Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a)
-<br>
-[Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003)
-<br>
-[Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006)
-<br>
-[Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2)
-<br>
-[Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390)
-<br>
-[KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1)
-<br>
-[Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
-<br>
-[Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049)
-<br>
-[Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
-<br>
-[Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716)
-<br>
-[Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f)
-<br>
-[Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055)
-<br>
-[Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d)
-<br>
-[Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746)
-<br>
-[Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009)
-<br>
-[Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058)
-<br>
-[Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083)
-<br>
-[Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8)
-<br>
-**(Day30)** [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
-</br>
-[Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b)
-</br>
-[99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba)
-</br>
-[Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
-</br>
-[Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1)
-</br>
-[Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127)
-</br>
-[Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
-</br>
-[Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
-</br>
-[Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f)
-</br>
-[Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114)
-</br>
-[Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
-</br>
-[The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594)
-</br>
-[Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)
-</br>
-[Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
-</br>
-[Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
-</br>
-[Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c)
-</br>
-[Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
-</br>
-[Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a)
-</br>
-[Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780)
-</br>
-[Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342)
-</br>
-[Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
-</br>
-[Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b)
-</br>
-[Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
-</br>
-[Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811)
-</br>
-[Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
-</br>
-[SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087)
-</br>
-[Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)
-</br>
-[Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) 
-</br>
-[Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) 
-</br>
-[Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) 
-</br>
-[Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766)
-</br>
-[Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
-</br>
-[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) 
-</br>
-[Use map() to double the values in an array](https://www.codewars.com/kata/53951fff369894e4f10007a9) 
-</br>
-[Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d)
-</br>
-[Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)
-</br>
-**(Day01)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 
-
-|   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-| [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) | [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766) |
-| **(Day01)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d) |
-
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+| **(Day50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |   |   |   |
+| [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |   |   |   |
+| [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |   |   |   |
+| [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |   |   |   |
+| [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |   |   |   |
+| [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |   |   |   |
+| [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |   |   |   |
+| [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |   |   |   |
+| [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |   |   |   |
+| [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |   |   |   |
+| [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |   |   |   |
+| [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |   |   |   |
+| [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |   |   |   |
+| [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |   |   |   |
+| [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |   |   |   |
+| [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |   |   |   |
+| [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |   |   |   |
+| [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |   |   |   |
+| [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |   |   |   |
+| **(Day30)** [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |   |   |   |
+| [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |   |   |   |
+| [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |   |   |   |
+| [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245)  |   |   |   |
+| [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |   |   |   |
+| [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |   |   |   |
+| [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |   |   |   |
+| [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |   |   |   |
+| [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |   |   |   |
+| [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |   |   |   |
+| [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |   |   |   |
+| [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |   |   |   |
+| [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)  |   |   |   |
+| [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |   |   |   |
+| [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) |   |   |   |
+| [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) |   |   |   |
+| [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) |   |   |   |
+| [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) |   |   |   |
+| [Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780) |   |   |   |
+| [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342) |   |   |   |
+| [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)  |   |   |   |
+| [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b) |   |   |   |
+| [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |   |   |   |
+| [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811) |   |   |   |
+| [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) |   |   |   |
+| [SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087) |   |   |   |
+| [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b) |   |   |   |
+| [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |   |   |   |
+| [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) |   |   |   |
+| [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)  |   |   |   |
+| [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766) |   |   |   |
+| [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)  |   |   |   |
+| [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |   |   |   |
+| [Use map() to double the values in an array](https://www.codewars.com/kata/53951fff369894e4f10007a9)  |   |   |   |
+| [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d)  |   |   |   |
+| [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) |   |   |   |
+| **(Day01)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |   |   |   |
