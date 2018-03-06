@@ -190,7 +190,6 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-| [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d)  |   |   |
-| [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa)  |   |   |
-| **(Day01)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)  |   |   |
+| [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d), 
+[Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa), **(Day01)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)  |   |   |
+
