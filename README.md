@@ -6,11 +6,11 @@ Start Date: November 21, 2017</br>
 _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
 <br>
-*(Day150)...*
+*(Day 150)...*
 
 
 
-|   |   |   |   |
+| 1-90  | 90-180  |   |   |
 |---|---|---|---|
 | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |  |  |  |
 | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |  |  |  |
@@ -27,7 +27,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 | [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23) |   |   |   |
 | [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae) |   |   |   |
 | [Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083) |   |   |   |
-| **(Day 75)**[Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004) |   |   |   |
+| **(Day 75)** [Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004) |   |   |   |
 | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c)  |   |   |   |
 | [Shorten Me: Mad Mathematician's Algorithm I (Addition)](https://www.codewars.com/kata/5a6855c2e6be38cdbf000026) |   |   |   |
 | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) |   |   |   |
