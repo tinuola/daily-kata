@@ -84,11 +84,11 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |   |   |   |
 | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |   |   |   |
 | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)  |   |   |   |
-| [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |   |   |   |
-| [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) |   |   |   |
-| [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) |   |   |   |
-| [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) |  |  |  |
-| [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | []() |  |  |
+| [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | []() |  |  |
+| [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) | []() |  |  |
+| [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) | []() |  |  |
+| [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) | []() |  |  |
+| [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | [What's in a name?](https://www.codewars.com/kata/59daf400beec9780a9000045) |  |  |
 | [Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780) | [Find the missing element between two arrays](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030) |  |  |
 | [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342) | [Next Prime](https://www.codewars.com/kata/58e230e5e24dde0996000070) |  |  |
 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)  | [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b) |  |  |
