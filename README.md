@@ -87,11 +87,11 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |   |   |   |
 | [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) |   |   |   |
 | [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) |   |   |   |
-| [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) |   |   |   |
-| [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) |   |   |   |
-| [Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780) | [Next Prime](https://www.codewars.com/kata/58e230e5e24dde0996000070)  |   |   |
-| [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342) | [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b)  |   |   |
-| [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)  | []()  |   |   |
+| [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) |  |  |  |
+| [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | []() |  |  |
+| [Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780) | [Find the missing element between two arrays](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030) |  |  |
+| [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342) | [Next Prime](https://www.codewars.com/kata/58e230e5e24dde0996000070) |  |  |
+| [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)  | [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b) |  |  |
 | [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b) | [Reversed Message](https://www.codewars.com/kata/5a0efbb7c374cb69970000cf) |  |  |
 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) |  |  |
 | [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811) | [Average Array](https://www.codewars.com/kata/596f6385e7cd727fff0000d6) |  |  |
