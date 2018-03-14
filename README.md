@@ -86,7 +86,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594)  |   |   |   |
 | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | []() |  |  |
 | [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) | []() |  |  |
-| [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) | []() |  |  |
+| [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) | [Peak array index](https://www.codewars.com/kata/5a61a846cadebf9738000076) |  |  |
 | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) | [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0) |  |  |
 | [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | [What's in a name?](https://www.codewars.com/kata/59daf400beec9780a9000045) |  |  |
 | [Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780) | [Find the missing element between two arrays](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030) |  |  |
