@@ -71,14 +71,14 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |   |   |   |
 | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |   |   |   |
 | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |   |   |   |
-| **(Day 30)** [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |   |   |   |
+| [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |   |   |   |
 | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |   |   |   |
 | [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |   |   |   |
 | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245)  | []() |  |  |
 | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) | []() |  |  |
 | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) | []() |  |  |
 | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) | []() |  |  |
-| [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) | []() |  |  |
+| **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) | []() |  |  |
 | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) | []() |  |  |
 | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) | []() |  |  |
 | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) | []() |  |  |
@@ -95,10 +95,10 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 | [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b) | [Reversed Message](https://www.codewars.com/kata/5a0efbb7c374cb69970000cf) |  |  |
 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) |  |  |
 | [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811) | [Average Array](https://www.codewars.com/kata/596f6385e7cd727fff0000d6) |  |  |
-| [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | **(Day 100)** [Smallest value of an array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0) |  |  |
+| [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Smallest value of an array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0) |  |  |
 | [SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087) | [Get all array elements except those with specified indexes](https://www.codewars.com/kata/58694d1c2e8d9c6d9b000296) |  |  |
 | [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b) | [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b) |  |  |
-| [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Is my string repeating the same character over and over ?](https://www.codewars.com/kata/584fa5ae25dd087e6b000070) |  |  |
+| [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | **(Day 100)** [Is my string repeating the same character over and over ?](https://www.codewars.com/kata/584fa5ae25dd087e6b000070) |  |  |
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) |  |  |
 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)  | [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) |  |  |
 | [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766) | [Shuffle an Array](https://www.codewars.com/kata/566b51166f88d7560c00001a) |  |  |
