@@ -78,13 +78,13 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  |  | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
 |  |  |  | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
 |  |  |  | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
-|  |  |  | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
-|  |  |  | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
-|  |  |  | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
-|  |  |  | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
-|  |  |  | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
-|  |  |  | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
-|  |  |  | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
+|  |  | []() | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
+|  |  | []() | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
+|  |  | []() | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
+|  |  | []() | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
+|  |  | []() | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
+|  |  | []() | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
+|  |  | [Integer Difference](https://www.codewars.com/kata/57741d8f10a0a66915000001) | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
 |  |  | [Repeated Substring](https://www.codewars.com/kata/5491689aff74b9b292000334) | [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) |
 |  |  | [Peak array index](https://www.codewars.com/kata/5a61a846cadebf9738000076) | [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) |
 |  |  | [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0) | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) |
