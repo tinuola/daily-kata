@@ -82,7 +82,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
 |  |  | []() | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
 |  |  | []() | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
-|  |  | []() | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
+|  |  | [Next Palindromic Number](https://www.codewars.com/kata/56a6ce697c05fb4667000029) | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  |  | [What is my name score? #1](https://www.codewars.com/kata/576a29ab726f4bba4b000bb1) | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  |  | [Integer Difference](https://www.codewars.com/kata/57741d8f10a0a66915000001) | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
 |  |  | [Repeated Substring](https://www.codewars.com/kata/5491689aff74b9b292000334) | [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) |
