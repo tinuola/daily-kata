@@ -65,23 +65,23 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  |  | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
 |  |  |  | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
 |  |  |  | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
-|  |  |  | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
-|  |  |  | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
-|  |  |  | [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |
-|  |  |  | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
-|  |  |  | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
-|  |  |  | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
-|  |  |  | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
-|  |  |  | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |
-|  |  |  | [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |
-|  |  |  | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) |
-|  |  |  | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
-|  |  |  | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
-|  |  |  | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
+|  |  | []() | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
+|  |  | []() | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
+|  |  | []() | [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |
+|  |  | []() | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
+|  |  | []() | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
+|  |  | []() | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
+|  |  | []() | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
+|  |  | []() | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |
+|  |  | []() | [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |
+|  |  | []() | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) |
+|  |  | []() | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
+|  |  | []() | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
+|  |  | []() | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  |  | []() | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  |  | []() | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
 |  |  | []() | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
-|  |  | []() | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
+|  |  | [Cipher](https://www.codewars.com/kata/5a19701d80171fd71d000029) | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
 |  |  | [Next Palindromic Number](https://www.codewars.com/kata/56a6ce697c05fb4667000029) | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  |  | [What is my name score? #1](https://www.codewars.com/kata/576a29ab726f4bba4b000bb1) | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  |  | [Integer Difference](https://www.codewars.com/kata/57741d8f10a0a66915000001) | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
