@@ -78,7 +78,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
 |  |  | []() | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
 |  |  | []() | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
-|  |  | []() | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
+|  |  | [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025) | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  |  | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
 |  |  | [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
 |  |  | [Cipher](https://www.codewars.com/kata/5a19701d80171fd71d000029) | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
