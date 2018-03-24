@@ -76,7 +76,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |
 |  |  | []() | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) |
 |  |  | []() | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
-|  |  | []() | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
+|  |  | [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
 |  |  | [Initialize my name](https://www.codewars.com/kata/5768a693a3205e1cc100071f) | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  |  | [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025) | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  |  | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
