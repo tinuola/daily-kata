@@ -71,11 +71,11 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
 |  |  | []() | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
 |  |  | []() | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
-|  |  | []() | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
-|  |  | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006), [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018), [Exclamation marks series #11](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |
+|  |  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
+|  |  | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006); [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018); [Exclamation marks series #11](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |
 |  |  | [Piano Kata, Part 1](https://www.codewars.com/kata/589273272fab865136000108) | [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |
 |  |  | [Add property to every object in array](https://www.codewars.com/kata/54e8c3e89e2ae6f4900005a1) | [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245) |
-|  |  | [Creating a string for an array of objects from a set of words](https://www.codewars.com/kata/5877786688976801ad000100), [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d) | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
+|  |  | [Creating a string for an array of objects from a set of words](https://www.codewars.com/kata/5877786688976801ad000100); [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d) | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) |
 |  |  | [Find the stray number](https://www.codewars.com/kata/57f609022f4d534f05000024) | [Holiday Array Repair](https://www.codewars.com/kata/5579906f2f0c0d0766000127) |
 |  |  | [Initialize my name](https://www.codewars.com/kata/5768a693a3205e1cc100071f) | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  |  | [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025) | **(Day 30)** [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
