@@ -51,26 +51,26 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  |  | [Grandma learning to text](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0) |
 |  |  |  | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
 |  |  |  | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
-|  |  |  | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
-|  |  |  | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
-|  |  |  | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
-|  |  |  | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
-|  |  |  | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
-|  |  |  | [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |
-|  |  |  | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
-|  |  |  | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
-|  |  |  | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
-|  |  |  | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
-|  |  |  | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
-|  |  |  | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
-|  |  |  | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
-|  |  |  | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
+|  |  | []() | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
+|  |  | []() | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
+|  |  | []() | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
+|  |  | []() | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
+|  |  | []() | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
+|  |  | []() | [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |
+|  |  | []() | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
+|  |  | []() | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
+|  |  | []() | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
+|  |  | []() | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
+|  |  | []() | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
+|  |  | []() | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
+|  |  | []() | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
+|  |  | []() | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
 |  |  | []() | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
 |  |  | []() | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
 |  |  | []() | [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |
 |  |  | []() | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
 |  |  | []() | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
-|  |  | []() | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
+|  |  | [Shopping List](https://www.codewars.com/kata/596266482f9add20f70001fc) | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
 |  |  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
 |  |  | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006); [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018); [Exclamation marks series #11](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |
 |  |  | [Piano Kata, Part 1](https://www.codewars.com/kata/589273272fab865136000108) | [99 bottles of beer](https://www.codewars.com/kata/52a723508a4d96c6c90005ba) |
