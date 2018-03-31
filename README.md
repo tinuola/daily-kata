@@ -69,7 +69,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
 |  |  | []() | [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |
 |  |  | []() | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
-|  |  | []() | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
+|  |  | [Grouped by commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
 |  |  | [Shopping List](https://www.codewars.com/kata/596266482f9add20f70001fc) | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
 |  |  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
 |  |  | [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006); [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018); [Exclamation marks series #11](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed) | [Find Your Villain Name](https://www.codewars.com/kata/536c00e21da4dc0a0700128b) |
