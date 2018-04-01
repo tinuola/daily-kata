@@ -68,7 +68,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
 |  |  | []() | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
 |  |  | []() | [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |
-|  |  | []() | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
+|  |  | [Are the numbers in order?](https://www.codewars.com/kata/56b7f2f3f18876033f000307) | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
 |  |  | [Grouped by commas](https://www.codewars.com/kata/5274e122fc75c0943d000148) | [Dollars and Cents](https://www.codewars.com/kata/55902c5eaa8069a5b4000083) |
 |  |  | [Shopping List](https://www.codewars.com/kata/596266482f9add20f70001fc) | [Decipher this!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) |
 |  |  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) |
