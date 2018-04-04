@@ -65,7 +65,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
 |  |  | []() | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
 |  |  | []() | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
-|  |  | []() | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
+|  |  | [Find divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e) | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
 |  |  | [How Many Unique Consonants?](https://www.codewars.com/kata/5a19226646d843de9000007d), [Remove duplication](https://www.codewars.com/kata/5904d222e1bfd3354e000026) | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
 |  |  | [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Multiple of index](https://www.codewars.com/kata/5a34b80155519e1a00000009) |
 |  |  | [Are the numbers in order?](https://www.codewars.com/kata/56b7f2f3f18876033f000307) | [Minimum dollar bill's count](https://www.codewars.com/kata/58e4d3530e1018e155000058) |
