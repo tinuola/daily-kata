@@ -63,7 +63,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
 |  |  | []() | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
 |  |  | []() | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
-|  |  | []() | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
+|  |  | [Return substring instance count](https://www.codewars.com/kata/5168b125faced29f66000005) | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
 |  |  | [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
 |  |  | [Find divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e) | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
 |  |  | [How Many Unique Consonants?](https://www.codewars.com/kata/5a19226646d843de9000007d), [Remove duplication](https://www.codewars.com/kata/5904d222e1bfd3354e000026) | [Word a10n (abbreviation)](https://www.codewars.com/kata/5375f921003bf62192000746) |
