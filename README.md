@@ -59,10 +59,10 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |
 |  |  | []() | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
 |  |  | []() | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
-|  |  | []() | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
-|  |  | []() | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
-|  |  | []() | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
-|  |  | []() | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
+|  |  | [The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts) | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
+|  |  | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
+|  |  | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
+|  |  | [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
 |  |  | [Return substring instance count](https://www.codewars.com/kata/5168b125faced29f66000005) | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
 |  |  | [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
 |  |  | [Find divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e) | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
