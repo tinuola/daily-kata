@@ -58,7 +58,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
 |  |  | []() | [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |
 |  |  | []() | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
-|  |  | []() | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
+|  |  | [Compare Strings by Sum of Chars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065) | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
 |  |  | [The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts) | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
 |  |  | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
 |  |  | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
