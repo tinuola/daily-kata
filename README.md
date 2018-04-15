@@ -55,7 +55,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
 |  |  | []() | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
 |  |  | []() | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
-|  |  | []() | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
+|  |  | [Find Nearest square number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba) | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
 |  |  | [Calculate Two People's Individual Ages](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1) | [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |
 |  |  | [Multiply Word in String](https://www.codewars.com/kata/5ace2d9f307eb29430000092) | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
 |  |  | [Compare Strings by Sum of Chars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065) | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
