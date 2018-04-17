@@ -53,7 +53,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
 |  |  | []() | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
 |  |  | []() | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
-|  |  | []() | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
+|  |  | [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073) | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
 |  |  | [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
 |  |  | [Find Nearest square number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba) | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
 |  |  | [Calculate Two People's Individual Ages](https://www.codewars.com/kata/58e0bd6a79716b7fcf0013b1) | [Every nth array element. (Basic)](https://www.codewars.com/kata/5753b987aeb792508d0010e2) |
