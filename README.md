@@ -1,12 +1,12 @@
 # daily-kata
 ![Codewar Badge](https://www.codewars.com/users/tinuola/badges/large)</br>
-#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, ~~100~~, 150, 200, 250, 300 and 365 days.
+#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, ~~100~~, ~~150~~, 200, 250, 300 and 365 days.
 
 Start Date: November 21, 2017</br>
 _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
 <br>
-*(Day 150)...*
+*(Day 200)...*
 
 
 
@@ -52,7 +52,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
 |  |  | []() | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
 |  |  | []() | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
-|  |  | []() | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
+|  |  | [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091) | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
 |  |  | [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073) | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
 |  |  | [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
 |  |  | [Find Nearest square number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba) | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
