@@ -6,6 +6,7 @@ Start Date: November 21, 2017</br>
 _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 <br>
 <br>
+Days skipped: 62, 136, 148, 149 <br>
 *(Day 200)...*
 
 
@@ -51,7 +52,7 @@ _[Solutions (CodePen)](https://codepen.io/collection/XMJOMV/)_
 |  |  | []() | [Grandma learning to text](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0) |
 |  |  | []() | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
 |  |  | []() | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
-|  |  | []() | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
+|  |  | [Transpose two strings in an array](https://www.codewars.com/kata/581f4ac139dc423f04000b99) | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
 |  |  | **(Day 150)** [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091) | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
 |  |  | [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073) | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
 |  |  | [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
