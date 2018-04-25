@@ -50,8 +50,8 @@ Days skipped: 62, 136, 148, 149 <br>
 |  |  | []() | [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d) |
 |  |  | []() | [Tally it up](https://www.codewars.com/kata/5630d1747935943168000013) |
 |  |  | []() | [Grandma learning to text](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0) |
-|  |  | []() | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
-|  |  | []() | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
+|  |  | [Calculate Julie's Age](https://www.codewars.com/kata/558445a88826e1376b000011) | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
+|  |  | [Random case](https://www.codewars.com/kata/57073869924f34185100036d) | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
 |  |  | [Transpose two strings in an array](https://www.codewars.com/kata/581f4ac139dc423f04000b99) | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
 |  |  | **(Day 150)** [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091) | **(Day 50)** [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
 |  |  | [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073) | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
