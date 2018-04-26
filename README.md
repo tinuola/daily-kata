@@ -49,7 +49,7 @@ Days skipped: 62, 136, 148, 149 <br>
 |  |  | []() | [Calculate Hypotenuse of Right-angled Triangle](https://www.codewars.com/kata/525a3d6b85a9a47fcf00055a) |
 |  |  | []() | [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d) |
 |  |  | []() | [Tally it up](https://www.codewars.com/kata/5630d1747935943168000013) |
-|  |  | [Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc) | [Grandma learning to text](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0) |
+|  |  | [Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc), [Determine offspring sex based on genes XX and XY chromosomes](https://www.codewars.com/kata/56530b444e831334c0000020) | [Grandma learning to text](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0) |
 |  |  | [Calculate Julie's Age](https://www.codewars.com/kata/558445a88826e1376b000011) | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
 |  |  | [Random case](https://www.codewars.com/kata/57073869924f34185100036d) | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
 |  |  | [Transpose two strings in an array](https://www.codewars.com/kata/581f4ac139dc423f04000b99) | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
