@@ -13,7 +13,7 @@ Days skipped: 62, 136, 148, 149 <br>
 
 |   |   | ...-92 | 91-1 |
 |---|---|---|---|
-|  |  | []() | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
+| [train to remove duplicates from array with filter()]() | [train to remove duplicates from array with filter()]() | []() | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
 |  |  | []() | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
 |  |  | []() | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |
 |  |  | []() | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
