@@ -45,7 +45,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b) |
 |  |  | []() | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
 |  |  | []() | [Calculate Hypotenuse of Right-angled Triangle](https://www.codewars.com/kata/525a3d6b85a9a47fcf00055a) |
-|  |  | []() | [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d) |
+|  |  | [Driving School Series #2](https://www.codewars.com/kata/589b1c15081bcbfe6700017a) | [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d) |
 |  |  | [Train to remove duplicates from array with filter()](https://www.codewars.com/kata/58308360aeb69a460b0002b2) | [Tally it up](https://www.codewars.com/kata/5630d1747935943168000013) |
 |  |  | [Adding Arrays](https://www.codewars.com/kata/59778cb1b061e877c50000cc), [Determine offspring sex based on genes XX and XY chromosomes](https://www.codewars.com/kata/56530b444e831334c0000020) | [Grandma learning to text](https://www.codewars.com/kata/5a043fbef3251a5a2b0002b0) |
 |  |  | [Calculate Julie's Age](https://www.codewars.com/kata/558445a88826e1376b000011) | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
