@@ -43,7 +43,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [The Sceptical Kid Generator](https://www.codewars.com/kata/570957fc20a35bd2df0004f9) |
 |  |  | []() | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835) |
 |  |  | []() | [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b) |
-|  |  | []() | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
+|  |  | [Format words into a sentence](https://www.codewars.com/kata/51689e27fe9a00b126000004) | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
 |  |  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [Calculate Hypotenuse of Right-angled Triangle](https://www.codewars.com/kata/525a3d6b85a9a47fcf00055a) |
 |  |  | [Driving School Series #2](https://www.codewars.com/kata/589b1c15081bcbfe6700017a) | [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d) |
 |  |  | [Train to remove duplicates from array with filter()](https://www.codewars.com/kata/58308360aeb69a460b0002b2) | [Tally it up](https://www.codewars.com/kata/5630d1747935943168000013) |
