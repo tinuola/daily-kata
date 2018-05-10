@@ -42,7 +42,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Happy Numbers](https://www.codewars.com/kata/59d53c3039c23b404200007e) |
 |  |  | []() | [The Sceptical Kid Generator](https://www.codewars.com/kata/570957fc20a35bd2df0004f9) |
 |  |  | []() | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835) |
-|  |  | []() | [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b) |
+|  |  | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b) |
 |  |  | [Format words into a sentence](https://www.codewars.com/kata/51689e27fe9a00b126000004) | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
 |  |  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [Calculate Hypotenuse of Right-angled Triangle](https://www.codewars.com/kata/525a3d6b85a9a47fcf00055a) |
 |  |  | [Driving School Series #2](https://www.codewars.com/kata/589b1c15081bcbfe6700017a) | [Name Array Capping](https://www.codewars.com/kata/5356ad2cbb858025d800111d) |
