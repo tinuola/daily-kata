@@ -40,8 +40,8 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032) |
 |  |  | []() | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) |
 |  |  | []() | [Happy Numbers](https://www.codewars.com/kata/59d53c3039c23b404200007e) |
-|  |  | []() | [The Sceptical Kid Generator](https://www.codewars.com/kata/570957fc20a35bd2df0004f9) |
-|  |  | []() | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835) |
+|  |  | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4), [Reversed words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [The Sceptical Kid Generator](https://www.codewars.com/kata/570957fc20a35bd2df0004f9) |
+|  |  | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835) |
 |  |  | [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) | [Regexp Basics - is it a letter?](https://www.codewars.com/kata/567de72e8b3621b3c300000b) |
 |  |  | [Format words into a sentence](https://www.codewars.com/kata/51689e27fe9a00b126000004) | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
 |  |  | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [Calculate Hypotenuse of Right-angled Triangle](https://www.codewars.com/kata/525a3d6b85a9a47fcf00055a) |
