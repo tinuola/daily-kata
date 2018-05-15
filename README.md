@@ -37,8 +37,8 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8) |
 |  |  | []() | [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2) |
 |  |  | []() | [Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025) |
-|  |  | []() | [Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032) |
-|  |  | []() | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) |
+|  |  | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032) |
+|  |  | [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0) | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) |
 |  |  | [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020) | [Happy Numbers](https://www.codewars.com/kata/59d53c3039c23b404200007e) |
 |  |  | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4), [Reversed words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [The Sceptical Kid Generator](https://www.codewars.com/kata/570957fc20a35bd2df0004f9) |
 |  |  | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [What's a Perfect Power anyway?](https://www.codewars.com/kata/54d4c8b08776e4ad92000835) |
