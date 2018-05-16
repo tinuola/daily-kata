@@ -36,7 +36,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [One down](https://www.codewars.com/kata/56419475931903e9d1000087) |
 |  |  | []() | [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8) |
 |  |  | []() | [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2) |
-|  |  | []() | [Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025) |
+|  |  | [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | [Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025) |
 |  |  | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032) |
 |  |  | [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0) | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) |
 |  |  | [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020) | [Happy Numbers](https://www.codewars.com/kata/59d53c3039c23b404200007e) |
