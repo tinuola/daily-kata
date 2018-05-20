@@ -33,8 +33,8 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
 |  |  | []() | [80's Kids #1: How Many Licks Does it Take?](https://www.codewars.com/kata/566091b73e119a073100003a) |
 |  |  | []() | [Regexp Basics - is it a hexadecimal number?](https://www.codewars.com/kata/567c9f56d83baeed8300000f) |
-|  |  | []() | [One down](https://www.codewars.com/kata/56419475931903e9d1000087) |
-|  |  | []() | [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8) |
+|  |  | [Calculate Meal Total](https://www.codewars.com/kata/58545549b45c01ccab00058c) | [One down](https://www.codewars.com/kata/56419475931903e9d1000087) |
+|  |  | [Day of The Week](https://www.codewars.com/kata/588d54c2ce8a3532a500001b) | [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8) |
 |  |  | [Balanced Number (Special Numbers Series #1 )](https://www.codewars.com/kata/5a4e3782880385ba68000018) | [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2) |
 |  |  | [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | [Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025) |
 |  |  | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032) |
