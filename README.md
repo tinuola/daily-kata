@@ -31,8 +31,8 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c) |
 |  |  | []() | [Shorten Me: Mad Mathematician's Algorithm I (Addition)](https://www.codewars.com/kata/5a6855c2e6be38cdbf000026) |
 |  |  | []() | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
-|  |  | []() | [80's Kids #1: How Many Licks Does it Take?](https://www.codewars.com/kata/566091b73e119a073100003a) |
-|  |  | []() | [Regexp Basics - is it a hexadecimal number?](https://www.codewars.com/kata/567c9f56d83baeed8300000f) |
+|  |  | [Product of Array Items](https://www.codewars.com/kata/5901f361927288d961000013) | [80's Kids #1: How Many Licks Does it Take?](https://www.codewars.com/kata/566091b73e119a073100003a) |
+|  |  | [Predict your age!](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Regexp Basics - is it a hexadecimal number?](https://www.codewars.com/kata/567c9f56d83baeed8300000f) |
 |  |  | [Calculate Meal Total](https://www.codewars.com/kata/58545549b45c01ccab00058c) | [One down](https://www.codewars.com/kata/56419475931903e9d1000087) |
 |  |  | [Day of The Week](https://www.codewars.com/kata/588d54c2ce8a3532a500001b) | [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8) |
 |  |  | [Balanced Number (Special Numbers Series #1 )](https://www.codewars.com/kata/5a4e3782880385ba68000018) | [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2) |
