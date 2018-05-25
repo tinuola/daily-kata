@@ -28,7 +28,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae) |
 |  |  | []() | [Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083) |
 |  |  | []() | [Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004) |
-|  |  | []() | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c) |
+|  |  | [Maximum Multiple](https://www.codewars.com/kata/5aba780a6a176b029800041c) | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c) |
 |  |  | [Put a Letter in a Column](https://www.codewars.com/kata/563d54a7329a7af8f4000059) | [Shorten Me: Mad Mathematician's Algorithm I (Addition)](https://www.codewars.com/kata/5a6855c2e6be38cdbf000026) |
 |  |  | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a) |
 |  |  | [Product of Array Items](https://www.codewars.com/kata/5901f361927288d961000013) | [80's Kids #1: How Many Licks Does it Take?](https://www.codewars.com/kata/566091b73e119a073100003a) |
