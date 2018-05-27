@@ -26,7 +26,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) |
 |  |  | []() | [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23) |
 |  |  | []() | [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae) |
-|  |  | []() | [Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083) |
+|  |  | [Three added Characters](https://www.codewars.com/kata/5971b219d5db74843a000052) | [Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083) |
 |  |  | [Naughty or Nice](https://www.codewars.com/kata/5662b14e0a1fb8320a00005c) | [Return the Missing Element](https://www.codewars.com/kata/5299413901337c637e000004) |
 |  |  | [Maximum Multiple](https://www.codewars.com/kata/5aba780a6a176b029800041c) | [Return a string's even characters](https://www.codewars.com/kata/566044325f8fddc1c000002c) |
 |  |  | [Put a Letter in a Column](https://www.codewars.com/kata/563d54a7329a7af8f4000059) | [Shorten Me: Mad Mathematician's Algorithm I (Addition)](https://www.codewars.com/kata/5a6855c2e6be38cdbf000026) |
