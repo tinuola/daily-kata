@@ -23,7 +23,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Sum of Array Averages](https://www.codewars.com/kata/56d5166ec87df55dbe000063) |
 |  |  | []() | [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) |
 |  |  | []() | [Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410) |
-|  |  | []() | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) |
+|  |  | [Life Path Number](https://www.codewars.com/kata/5a1a76c8a7ad6aa26a0007a0) | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) |
 |  |  | [Find Added](https://www.codewars.com/kata/58de77a2c19f096a5a00013f) | [Convert an array of strings to array of numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23) |
 |  |  | [Adding words - Part I](https://www.codewars.com/kata/592eaf848c91f248ca000012) | [Digitize](https://www.codewars.com/kata/5417423f9e2e6c2f040002ae) |
 |  |  | [Three added Characters](https://www.codewars.com/kata/5971b219d5db74843a000052), [Return pyramids](https://www.codewars.com/kata/5a1c28f9c9fc0ef2e900013b) | [Recycle!](https://www.codewars.com/kata/59fb783bab11f89202001083) |
