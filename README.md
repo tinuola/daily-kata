@@ -20,7 +20,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
 |  |  | []() | [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) |
 |  |  | []() | [Sum The Array](https://www.codewars.com/kata/56bdf9d50d0b6433df001074) |
-|  |  | [Digits Average](https://www.codewars.com/kata/5a32526ae1ce0ec0f10000b2) | [Sum of Array Averages](https://www.codewars.com/kata/56d5166ec87df55dbe000063) |
+|  |  | [Digits Average](https://www.codewars.com/kata/5a32526ae1ce0ec0f10000b2), [Add a property to an object](https://www.codewars.com/kata/55f2c3dde50947271200006a) | [Sum of Array Averages](https://www.codewars.com/kata/56d5166ec87df55dbe000063) |
 |  |  | [Recursive Averages](https://www.codewars.com/kata/5563b04ab3fd7e500d000151) | [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) |
 |  |  | [Count addresses grouped by state](https://www.codewars.com/kata/55f8370b0229d3dad000007a) | [Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410) |
 |  |  | [Life Path Number](https://www.codewars.com/kata/5a1a76c8a7ad6aa26a0007a0) | [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) |
