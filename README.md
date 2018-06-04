@@ -18,7 +18,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
 |  |  | []() | [List of Presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7) |
 |  |  | []() | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
-|  |  | []() | [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) |
+|  |  | [The Park Ranger's Umbrella](https://www.codewars.com/kata/5a514690d39ec5ab30000119) | [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) |
 |  |  | [Bowling Pins](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010) | [Sum The Array](https://www.codewars.com/kata/56bdf9d50d0b6433df001074) |
 |  |  | [Digits Average](https://www.codewars.com/kata/5a32526ae1ce0ec0f10000b2), [Add a property to an object](https://www.codewars.com/kata/55f2c3dde50947271200006a) | [Sum of Array Averages](https://www.codewars.com/kata/56d5166ec87df55dbe000063) |
 |  |  | [Recursive Averages](https://www.codewars.com/kata/5563b04ab3fd7e500d000151) | [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) |
