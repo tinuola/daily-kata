@@ -16,7 +16,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |
 |  |  | []() | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
 |  |  | []() | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
-|  |  | []() | [List of Presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7) |
+|  |  | [Drunk friend](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | [List of Presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7) |
 |  |  | [Sweet Dreams are Made of Cheese](https://www.codewars.com/kata/5ab7ee556a176b1043000047) | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
 |  |  | [The Park Ranger's Umbrella](https://www.codewars.com/kata/5a514690d39ec5ab30000119) | [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) |
 |  |  | [Bowling Pins](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010) | [Sum The Array](https://www.codewars.com/kata/56bdf9d50d0b6433df001074) |
@@ -96,14 +96,14 @@ Start Date: November 21, 2017</br>
 |  |  | [Average Array](https://www.codewars.com/kata/596f6385e7cd727fff0000d6) | [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811) |
 |  |  | [Smallest value of an array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0) | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) |
 |  |  | [Get all array elements except those with specified indexes](https://www.codewars.com/kata/58694d1c2e8d9c6d9b000296) | [SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087) |
-|  |  | [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b) | [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b) |
-|  |  | [Is my string repeating the same character over and over ?](https://www.codewars.com/kata/584fa5ae25dd087e6b000070) | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
-|  |  | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) |
-|  |  | [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
-|  |  | [Shuffle an Array](https://www.codewars.com/kata/566b51166f88d7560c00001a) | [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766) |
-|  |  | [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016) | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) |
-|  |  | [Extending JavaScript Objects: Reverse String](https://www.codewars.com/kata/581270cb4927602fc800005a) | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
-|  |  | [Hello World - Without Strings](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047) | [Use map() to double the values in an array](https://www.codewars.com/kata/53951fff369894e4f10007a9) |
-|  |  | [Sort an array by value and index](https://www.codewars.com/kata/58e0cb3634a3027180000040) | [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d) |
-|  |  | [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) |
-|  |  | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | **(Day 1)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |
+|  | []() | [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b) | [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b) |
+|  | []() | [Is my string repeating the same character over and over ?](https://www.codewars.com/kata/584fa5ae25dd087e6b000070) | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
+|  | []() | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) |
+|  | []() | [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) |
+|  | []() | [Shuffle an Array](https://www.codewars.com/kata/566b51166f88d7560c00001a) | [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/532b4057484b0e58e8000766) |
+|  | []() | [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016) | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) |
+|  | []() | [Extending JavaScript Objects: Reverse String](https://www.codewars.com/kata/581270cb4927602fc800005a) | [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014) |
+|  | []() | [Hello World - Without Strings](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047) | [Use map() to double the values in an array](https://www.codewars.com/kata/53951fff369894e4f10007a9) |
+|  | []() | [Sort an array by value and index](https://www.codewars.com/kata/58e0cb3634a3027180000040) | [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d) |
+|  | []() | [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) |
+|  | []() | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | **(Day 1)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |
