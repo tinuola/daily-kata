@@ -14,7 +14,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
 |  |  | []() | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
 |  |  | []() | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |
-|  |  | []() | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
+|  |  | [Defeat the Elemental Titans](https://www.codewars.com/kata/583d71ff28a0c08ee70003fc) | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
 |  |  | [Extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071) | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
 |  |  | [Drunk friend](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | [List of Presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7) |
 |  |  | [Sweet Dreams are Made of Cheese](https://www.codewars.com/kata/5ab7ee556a176b1043000047) | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
