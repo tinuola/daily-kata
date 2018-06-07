@@ -15,7 +15,7 @@ Start Date: November 21, 2017</br>
 |  |  | []() | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
 |  |  | []() | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |
 |  |  | []() | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
-|  |  | []() | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
+|  |  | [Extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071) | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
 |  |  | [Drunk friend](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | [List of Presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7) |
 |  |  | [Sweet Dreams are Made of Cheese](https://www.codewars.com/kata/5ab7ee556a176b1043000047) | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
 |  |  | [The Park Ranger's Umbrella](https://www.codewars.com/kata/5a514690d39ec5ab30000119) | [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) |
