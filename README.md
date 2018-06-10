@@ -1,18 +1,18 @@
 # daily-kata
 ![Codewar Badge](https://www.codewars.com/users/tinuola/badges/large)</br>
-#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, ~~100~~, ~~150~~, 200, 250, 300 and 365 days.
+#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, ~~100~~, ~~150~~, ~~200~~, 250, 300 and 365 days.
 
 Start Date: November 21, 2017</br>
 
 <br>
 <br>
-*(Day 200)...*
+*(Day 250)...*
 
 
 |   |   | ...-92 | 91-1 |
 |---|---|---|---|
 |  |  | []() | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
-|  |  | []() | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
+|  |  | [Candy problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba) | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
 |  |  | [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099); [Spaghetti Code - #1 Easy](https://www.codewars.com/kata/57d7805cec167081a50014ac) | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |
 |  |  | [Magic Three](https://www.codewars.com/kata/588622835d173135b7000103) | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
 |  |  | [Extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071); [Defeat the Elemental Titans](https://www.codewars.com/kata/583d71ff28a0c08ee70003fc) | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
