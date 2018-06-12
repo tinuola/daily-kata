@@ -106,4 +106,4 @@ Start Date: November 21, 2017</br>
 |  | []() | [Hello World - Without Strings](https://www.codewars.com/kata/584c7b1e2cb5e1a727000047) | [Use map() to double the values in an array](https://www.codewars.com/kata/53951fff369894e4f10007a9) |
 |  | []() | [Sort an array by value and index](https://www.codewars.com/kata/58e0cb3634a3027180000040) | [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d) |
 |  | []() | [Simple string characters](https://www.codewars.com/kata/5a29a0898f27f2d9c9000058) | [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) |
-|  | []() | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | **(Day 1)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |
+|  | [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | **(Day 1)** [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |
