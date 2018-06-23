@@ -95,7 +95,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |
 |  | []() | [Average Array](https://www.codewars.com/kata/596f6385e7cd727fff0000d6) | [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811) |
 |  | []() | [Smallest value of an array](https://www.codewars.com/kata/544a54fd18b8e06d240005c0) | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) |
-|  | []() | [Get all array elements except those with specified indexes](https://www.codewars.com/kata/58694d1c2e8d9c6d9b000296) | [SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087) |
+|  | [Credit card issuer checking](https://www.codewars.com/kata/5701e43f86306a615c001868) | [Get all array elements except those with specified indexes](https://www.codewars.com/kata/58694d1c2e8d9c6d9b000296) | [SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087) |
 |  | [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) | [Reverse List Order](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b) | [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b) |
 |  | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Is my string repeating the same character over and over ?](https://www.codewars.com/kata/584fa5ae25dd087e6b000070) | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
 |  | [Digits explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314) | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) |
