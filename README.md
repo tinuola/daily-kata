@@ -89,7 +89,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0) | [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) |
 |  | []() | [What's in a name?](https://www.codewars.com/kata/59daf400beec9780a9000045) |[Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | 
 |  | []() | [Find the missing element between two arrays](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030) |[Do you speak retsec?](https://www.codewars.com/kata/5516ab668915478845000780) |
-|  | []() | [Next Prime](https://www.codewars.com/kata/58e230e5e24dde0996000070) | [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342) |
+|  | [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [Next Prime](https://www.codewars.com/kata/58e230e5e24dde0996000070) | [Multiplication Tables](https://www.codewars.com/kata/5432fd1c913a65b28f000342) |
 |  | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | [How good are you really?](https://www.codewars.com/kata/5601409514fc93442500010b) | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) |
 |  | [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) | [Reversed Message](https://www.codewars.com/kata/5a0efbb7c374cb69970000cf) | [Multi-tap Keypad Text Entry on an Old Mobile Phone](https://www.codewars.com/kata/54a2e93b22d236498400134b) |
 |  | [Master of Files](https://www.codewars.com/kata/574bd867d277832448000adf) | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |
