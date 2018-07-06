@@ -82,7 +82,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
 |  | []() | [Cipher](https://www.codewars.com/kata/5a19701d80171fd71d000029) | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
 |  | []() | [Next Palindromic Number](https://www.codewars.com/kata/56a6ce697c05fb4667000029) | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
-|  | []() | [What is my name score? #1](https://www.codewars.com/kata/576a29ab726f4bba4b000bb1) | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
+|  | [Case Reversal of Consecutive Duplicates]() | [What is my name score? #1](https://www.codewars.com/kata/576a29ab726f4bba4b000bb1) | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  | [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc) | [Integer Difference](https://www.codewars.com/kata/57741d8f10a0a66915000001) | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
 |  | [Image Files Only](https://www.codewars.com/kata/56562b12044fa538b0000010) | [Repeated Substring](https://www.codewars.com/kata/5491689aff74b9b292000334) | [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c) |
 |  | [Pinocchio's polygraph](https://www.codewars.com/kata/58902b5edd7609f22d000059) | [Peak array index](https://www.codewars.com/kata/5a61a846cadebf9738000076) | [Where is my parent!?(cry)](https://www.codewars.com/kata/58539230879867a8cd00011c) |
