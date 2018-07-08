@@ -80,7 +80,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025) | [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  | []() | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
 |  | []() | [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
-|  | []() | [Cipher](https://www.codewars.com/kata/5a19701d80171fd71d000029) | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
+|  | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | [Cipher](https://www.codewars.com/kata/5a19701d80171fd71d000029) | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
 |  | [Product Of Maximums Of Array (Array Series #2)](https://www.codewars.com/kata/5a63948acadebff56f000018) | [Next Palindromic Number](https://www.codewars.com/kata/56a6ce697c05fb4667000029) | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  | [Case Reversal of Consecutive Duplicates](https://www.codewars.com/kata/577c2d68311a24132a0002a5) | [What is my name score? #1](https://www.codewars.com/kata/576a29ab726f4bba4b000bb1) | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  | [Remove duplicate words](https://www.codewars.com/kata/5b39e3772ae7545f650000fc) | [Integer Difference](https://www.codewars.com/kata/57741d8f10a0a66915000001) | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f) |
