@@ -79,7 +79,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Initialize my name](https://www.codewars.com/kata/5768a693a3205e1cc100071f) | [Organise duplicate numbers in list](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  | []() | [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025) | [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 |  | []() | [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Driving School Series #1](https://www.codewars.com/kata/58999425006ee3f97c00011f) |
-|  | []() | [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
+|  | [Clean up your Gibberish!](https://www.codewars.com/kata/5ac66185a1ad6f065b000046) | [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8) | [Money, Money, Money](https://www.codewars.com/kata/563f037412e5ada593000114) |
 |  | [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | [Cipher](https://www.codewars.com/kata/5a19701d80171fd71d000029) | [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075) |
 |  | [Product Of Maximums Of Array (Array Series #2)](https://www.codewars.com/kata/5a63948acadebff56f000018) | [Next Palindromic Number](https://www.codewars.com/kata/56a6ce697c05fb4667000029) | [The Vowel Code](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
 |  | [Case Reversal of Consecutive Duplicates](https://www.codewars.com/kata/577c2d68311a24132a0002a5) | [What is my name score? #1](https://www.codewars.com/kata/576a29ab726f4bba4b000bb1) | [Reversing Words in a String](https://www.codewars.com/kata/57a55c8b72292d057b000594) |
