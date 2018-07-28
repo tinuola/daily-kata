@@ -61,7 +61,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts) | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
 |  | []() | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
 |  | []() | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
-|  | []() | [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
+|  | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
 |  | [String Reversing, Changing case, etc.](https://www.codewars.com/kata/58305403aeb69a460b00019a) | [Return substring instance count](https://www.codewars.com/kata/5168b125faced29f66000005) | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
 |  | [Odd Not Prime](https://www.codewars.com/kata/5a9996fa8e503f2b4a002e7a) | [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) | [Who ate the cookie?](https://www.codewars.com/kata/55a996e0e8520afab9000055) |
 |  | [Not prime numbers](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7) | [Find divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e) | [Summy](https://www.codewars.com/kata/599c20626bd8795ce900001d) |
