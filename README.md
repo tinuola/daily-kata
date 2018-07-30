@@ -1,12 +1,12 @@
 # daily-kata
 ![Codewar Badge](https://www.codewars.com/users/tinuola/badges/large)</br>
-#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, ~~100~~, ~~150~~, ~~200~~, 250, 300 and 365 days.
+#### A personal project to tackle a [Codewars Kata](https://www.codewars.com/) in JavaScript everyday for ~~30~~, ~~50~~, ~~75~~, ~~100~~, ~~150~~, ~~200~~, ~~250~~, 300 and 365 days.
 
 Start Date: November 21, 2017</br>
 
 <br>
 <br>
-*(Day 250)...*
+*(Day 300)...*
 
 
 |   | ...-202 | 201-92 | 91-1 |
@@ -59,7 +59,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Multiply Word in String](https://www.codewars.com/kata/5ace2d9f307eb29430000092) | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) |
 |  |  | [Compare Strings by Sum of Chars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065) | [KISS - Keep It Simple Stupid](https://www.codewars.com/kata/57eeb8cc5f79f6465a0015c1) |
 |  | []() | [The Feast of Many Beasts](https://www.codewars.com/kata/the-feast-of-many-beasts) | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) |
-|  | []() | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
+|  | [Maximum Triplet Sum (Array Series #7)](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) | [Is n divisible by x and y?](https://www.codewars.com/kata/5545f109004975ea66000086) | [Simple consecutive pairs](https://www.codewars.com/kata/5a3e1319b6486ac96f000049) |
 |  | [Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed) | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Surface Area and Volume of a Box](https://www.codewars.com/kata/565f5825379664a26b00007c) |
 |  | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) | [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) |
 |  | [String Reversing, Changing case, etc.](https://www.codewars.com/kata/58305403aeb69a460b00019a) | [Return substring instance count](https://www.codewars.com/kata/5168b125faced29f66000005) | [Concatenated Sum](https://www.codewars.com/kata/59a1ec603203e862bb00004f) |
