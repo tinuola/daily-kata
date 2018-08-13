@@ -51,7 +51,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Calculate Julie's Age](https://www.codewars.com/kata/558445a88826e1376b000011) | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) |
 |  | []() | [Random case](https://www.codewars.com/kata/57073869924f34185100036d) | [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c) |
 |  | []() | [Transpose two strings in an array](https://www.codewars.com/kata/581f4ac139dc423f04000b99) | [Advanced Pig Latin](https://www.codewars.com/kata/533c46b140aafec05b000d31)  |
-|  | []() | [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091) | [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
+|  | [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6) | [Check three and two](https://www.codewars.com/kata/5a9e86705ee396d6be000091) | [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732) |
 |  | [Number Format](https://www.codewars.com/kata/565c4e1303a0a006d7000127) | [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073) | [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a) |
 |  | [Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d) | [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | [Split In Parts](https://www.codewars.com/kata/5650ab06d11d675371000003) |
 |  | [Cat and Mouse - Easy Version](https://www.codewars.com/kata/57ee24e17b45eff6d6000164) | [Find Nearest square number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba) | [Parse HTML/CSS Colors](https://www.codewars.com/kata/58b57ae2724e3c63df000006) |
