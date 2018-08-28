@@ -36,7 +36,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Calculate Meal Total](https://www.codewars.com/kata/58545549b45c01ccab00058c) | [One down](https://www.codewars.com/kata/56419475931903e9d1000087) |
 |  | []() | [Day of The Week](https://www.codewars.com/kata/588d54c2ce8a3532a500001b) | [Formatting a number as price](https://www.codewars.com/kata/5318f00b31b30925fd0001f8) |
 |  | []() | [Balanced Number (Special Numbers Series #1 )](https://www.codewars.com/kata/5a4e3782880385ba68000018) | [Monkey Talk](https://www.codewars.com/kata/59f897ecc374cb9ed90000c2) |
-|  | []() | [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | [Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025) |
+|  | [Fibonacci, Tribonacci and friends](https://www.codewars.com/kata/556e0fccc392c527f20000c5) | [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d) | [Regexp Basics - is it a vowel?](https://www.codewars.com/kata/567bed99ee3451292c000025) |
 |  | [Sum Consecutives](https://www.codewars.com/kata/55eeddff3f64c954c2000059) | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Regexp Basics - is it a digit?](https://www.codewars.com/kata/567bf4f7ee34510f69000032) |
 |  | [Find the word pair!](https://www.codewars.com/kata/5aaae0f5fd8c069e8c00016e) | [Sort by Last Char](https://www.codewars.com/kata/57eba158e8ca2c8aba0002a0) | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) |
 |  | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) | [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020) | [Happy Numbers](https://www.codewars.com/kata/59d53c3039c23b404200007e) |
