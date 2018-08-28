@@ -9,7 +9,7 @@ Start Date: November 21, 2017</br>
 *(Day 300)...*
 
 
-|   | ...-202 | 201-92 | 91-1 |
+|     |  ...-202   |  201-92   |  91-1   |
 |---|---|---|---|
 |  | []() | [Santa's Master Plan](https://www.codewars.com/kata/52afd1fe8f7c52a0e1000304) | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
 |  | []() | [Candy problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba); [Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
