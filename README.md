@@ -19,7 +19,7 @@ Start Date: November 21, 2017</br>
 |  | []() | [Drunk friend](https://www.codewars.com/kata/558ffec0f0584f24250000a0) | [List of Presents](https://www.codewars.com/kata/5a84d485742ba347b90006b7) |
 |  | []() | [Sweet Dreams are Made of Cheese](https://www.codewars.com/kata/5ab7ee556a176b1043000047) | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |
 |  | []() | [The Park Ranger's Umbrella](https://www.codewars.com/kata/5a514690d39ec5ab30000119) | [String cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251) |
-|  | []() | [Bowling Pins](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010) | [Sum The Array](https://www.codewars.com/kata/56bdf9d50d0b6433df001074) |
+|  | [Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010) | [Bowling Pins](https://www.codewars.com/kata/585cf93f6ad5e0d9bf000010) | [Sum The Array](https://www.codewars.com/kata/56bdf9d50d0b6433df001074) |
 |  | [Counting in the Amazon]() | [Digits Average](https://www.codewars.com/kata/5a32526ae1ce0ec0f10000b2); [Add a property to an object](https://www.codewars.com/kata/55f2c3dde50947271200006a) | [Sum of Array Averages](https://www.codewars.com/kata/56d5166ec87df55dbe000063) |
 |  | [Password Check - Binary to String](https://www.codewars.com/kata/5a731b36e19d14400f000c19) | [Recursive Averages](https://www.codewars.com/kata/5563b04ab3fd7e500d000151) | [Man in the west](https://www.codewars.com/kata/59bd5dc270a3b7350c00008b) |
 |  | [Boiled Eggs](https://www.codewars.com/kata/52b5247074ea613a09000164) | [Count addresses grouped by state](https://www.codewars.com/kata/55f8370b0229d3dad000007a) | [Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410) |
