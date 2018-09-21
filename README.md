@@ -9,10 +9,10 @@ Start Date: November 21, 2017</br>
 *(Day 365)...*
 
 
-|     |  ...-202   |  201-92   |  91-1   |
+|  ...305  |  304-202   |  201-92   |  91-1   |
 |---|---|---|---|
 |  | []() | [Santa's Master Plan](https://www.codewars.com/kata/52afd1fe8f7c52a0e1000304) | [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) |
-|  | []() | [Candy problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba); [Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
+|  | [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) | [Candy problem](https://www.codewars.com/kata/55466644b5d240d1d70000ba); [Form The Minimum](https://www.codewars.com/kata/5ac6932b2f317b96980000ca) | [Debug Sum of Digits of a Number](https://www.codewars.com/kata/563d59dd8e47a5ed220000ba) |
 |  | [Hands Up](https://www.codewars.com/kata/56d8f14cba01a83cdb0002a2) | [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099); [Spaghetti Code - #1 Easy](https://www.codewars.com/kata/57d7805cec167081a50014ac) | [Reverse Vowels In A String](https://www.codewars.com/kata/585db3e8eec141ce9a00008f) |
 |  | [Catalog](https://www.codewars.com/kata/59d9d8cb27ee005972000045) | [Magic Three](https://www.codewars.com/kata/588622835d173135b7000103) | [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) |
 |  | [Who's Online?](https://www.codewars.com/kata/5b6375f707a2664ada00002a) | [Extract file name](https://www.codewars.com/kata/597770e98b4b340e5b000071); [Defeat the Elemental Titans](https://www.codewars.com/kata/583d71ff28a0c08ee70003fc) | [Weird words](https://www.codewars.com/kata/57b2020eb69bfcbf64000375) | 
