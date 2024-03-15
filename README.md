@@ -6,193 +6,234 @@ Start Date: November 21, 2017</br>
 
 <br>
 <br>
-*(Day 400)...*
 
 
-|  ...305  |  304-202   |  201-92   |  91-1   |
-|---|---|---|---|
-|  | [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) |  |  |
-|  | [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) |  |  |
-|  | [Hands Up](https://www.codewars.com/kata/56d8f14cba01a83cdb0002a2) |  |  |
-|  | [Catalog](https://www.codewars.com/kata/59d9d8cb27ee005972000045) |  |  |
-|  | [Who's Online?](https://www.codewars.com/kata/5b6375f707a2664ada00002a) |  |  | 
-|  | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) |  |  |
-|  | [Salesman's Travel](https://www.codewars.com/kata/56af1a20509ce5b9b000001e) |  |  |
-|  | [Shortest code: Father and Son](https://www.codewars.com/kata/56f928b19982cc7a14000c9d) |  |  |
-|  | [Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010) |  |  |
-|  | [Counting in the Amazon]() |  |  |
-|  | [Password Check - Binary to String](https://www.codewars.com/kata/5a731b36e19d14400f000c19) |  |  |
-|  | [Boiled Eggs](https://www.codewars.com/kata/52b5247074ea613a09000164) |  |  |
-|  | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | |  |
-|  | [Integers: Recreation Two](https://www.codewars.com/kata/55e86e212fce2aae75000060); [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d) |  |  |
-|  | [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) |  |  |
-|  | [Kooka Counter](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258) |  |  |
-|  | [The Arpeggiator](https://www.codewars.com/kata/563c823393305ec84e000048) |  |  |
-|  | [Scrolling Text](https://www.codewars.com/kata/5a995c2aba1bb57f660001fd) |  |  |
-|  | [Inspiring Strings](https://www.codewars.com/kata/5939ab6eed348a945f0007b2) |  |  |
-|  | [Pig Sursurunga](https://www.codewars.com/kata/5536aba6e4609cc6a600003d) |  |  |
-|  | [Would you believe... Talk like Siegfried](https://www.codewars.com/kata/57fd6c4fa5372ead1f0004aa); [Age in Days](https://www.codewars.com/kata/5803753aab6c2099e600000e) |  |  |
-|  | [Guess the gifts](https://www.codewars.com/kata/52ae6b6623b443d9090002c8) |  |  |
-|  | [Build a square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c) |  | |
-|  | [Battle of the characters (Medium)](https://www.codewars.com/kata/595e9f258b763bc2d2000032) |  |  |
-|  | [Battle of the characters (Easy)](https://www.codewars.com/kata/595519279be6c575b5000016) |  |  |
-|  | [Fibonacci, Tribonacci and friends](https://www.codewars.com/kata/556e0fccc392c527f20000c5) |  |  |
-|  | [Sum Consecutives](https://www.codewars.com/kata/55eeddff3f64c954c2000059) |  |  |
-|  | [Find the word pair!](https://www.codewars.com/kata/5aaae0f5fd8c069e8c00016e) |  |  |
-|  | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) |  |  |
-|  | [Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) |  |  |
-|  | [SNAP](https://www.codewars.com/kata/5b49cc5a578c6ab6b200004c) |  |  |
-|  | [Some Circles](https://www.codewars.com/kata/56143efa9d32b3aa65000016) |  |  |
-|  | [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) |  |  |
-|  | [Corner circle](https://www.codewars.com/kata/5898761a9c700939ee000011) |  |  |
-|  | [Prime Numbers](https://www.codewars.com/kata/52dd72494367608ac1000416) |  |  |
-|  | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) |  |  |
-|  | [Simple Fun #316: Buy Fruits](https://www.codewars.com/kata/5934c24ed953868340000014) |  |  |
-|  | [Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755) |  |  |
-|  | [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) |  |  |
-| []() | ["Consonant Please"](https://www.codewars.com/kata/59727e04f6a02d0cde00001a) |  |   |
-| []() | [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6) |  |  |
-| []() | [Number Format](https://www.codewars.com/kata/565c4e1303a0a006d7000127) |  |  |
-| []() | [Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d) |  |  |
-| []() | [Cat and Mouse - Easy Version](https://www.codewars.com/kata/57ee24e17b45eff6d6000164) |  |  |
-| []() | [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) |  |  |
-| []() | [Form The Largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) |  |  |
-| [Reverse every other word in the string](https://www.codewars.com/kata/58d76854024c72c3e20000de); [The Power of Exponents](https://www.codewars.com/kata/53270633b7320eeb0500031d) | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) |  |  |
-| [Vowels Back](https://www.codewars.com/kata/57cfd92c05c1864df2001563); [Capitals first!](https://www.codewars.com/kata/55c353487fe3cc80660001d4) | [Single Word Pig Latin](https://www.codewars.com/kata/558878ab7591c911a4000007) |  |  |
-| **(Day 365)** [Lowest product of 4 consecutive numbers](https://www.codewars.com/kata/554e52e7232cdd05650000a0) | [Maximum Triplet Sum (Array Series #7)](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) |  |  |
-| [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023) | [Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed) |  |  |
-| [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) |  |  |
-| [The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014) | [String Reversing, Changing case, etc.](https://www.codewars.com/kata/58305403aeb69a460b00019a) |  |  |
-| [Make the Deadfish swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9) | [Odd Not Prime](https://www.codewars.com/kata/5a9996fa8e503f2b4a002e7a) |  |  |
-| [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Not prime numbers](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7) |  |  |
-| [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b) | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |  |  |
-| [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Is Number Prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) |  |  |
-| [Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016) | [Simple Fun #265: The Janitor And His Mop](https://www.codewars.com/kata/59128363e5bc24091a00006f) |  |  |
-| [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0) | [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117) |  |  |
-| [String Merge!](https://www.codewars.com/kata/597bb84522bc93b71e00007e) |  |  |  |
-| [Alphabet War](https://www.codewars.com/kata/59377c53e66267c8f6000027) |  |  |  |
-| [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214) |  |  |  |
-| [Simple Jeringonza](https://www.codewars.com/kata/5aba0a08379d20026e0000be) |  |  |  |
-| [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e) |  |  |  |
-| [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) |  |  |  |
-| [Alphabetical Sequence](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a) |  |  |  |
-| [Second largest in Array](https://www.codewars.com/kata/578fe7e2149935740f000525) |  |  |  |
-| [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) |  |  |  |
-| [Largest pair sum in array](https://www.codewars.com/kata/556196a6091a7e7f58000018) |  |  |  |
-| [Simple letter removal](https://www.codewars.com/kata/5b728f801db5cec7320000c7) |  |  |  |
-| [Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e) |  |  |  |
-| [Name to Matrix](https://www.codewars.com/kata/5a91e0793e9156ccb0003f6e) |  |  |  |
-| [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) |  |  |  |
-| [Round to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d) |  |  |  |
-| [Beginner Series #3 Sum of Numbers]() |  |  |  |
-| [Is he gonna survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c) |  |  |   |
-| [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) |  |  |  |
-| [Dont drive too long!](https://www.codewars.com/kata/5835b48cd8bab5d6de00001c) |  |  |  | 
-| [Minimize Sum Of Array (Array Series #1)](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) |  |  |  |
-| [Equalize the array!](https://www.codewars.com/kata/580a1a4af195dbc9ed00006c) |  |  |  |
-| [Word Challenges at School](https://www.codewars.com/kata/580be55ca671827cfd000043) |  |  |  |
-| [All Star Code Challenge #15](https://www.codewars.com/kata/586560a639c5ab3a260000f3) |  |  |  |
-| [Simple Fun #20: First Reverse Try](https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be) |  |  |  |
-| [Only one](https://www.codewars.com/kata/5734c38da41454b7f700106e) |  |  |  |
-| [Grocer Grouping](https://www.codewars.com/kata/593c0ebf8b90525a62000221/) |  |  |  |
-| [Objectify all the strings](https://www.codewars.com/kata/55dd54631827120dd800002b) |  |  |  |
-| [Count the divisible numbers](https://www.codewars.com/kata/55a5c82cd8e9baa49000004c) |  |  |  |
-| [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) |  |  |  |
-| [Thinkful - String Drills: Repeater](https://www.codewars.com/kata/585a1a227cb58d8d740001c3) |  |  |  |
-| [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) |  |  |  |
-| [Switcheroo](https://www.codewars.com/kata/57f759bb664021a30300007d) |  |  |  |
-| [Narcissistic Numbers](https://www.codewars.com/kata/56b22765e1007b79f2000079) |  |  |  |
-| [Thinkful - List Drills: Longest word](https://www.codewars.com/kata/58670300f04e7449290000e5) |  |  |  |
-| [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) |  |  |  |
-| [Method For Counting Total Occurence Of Specific Digits](https://www.codewars.com/kata/56311e4fdd811616810000ce) |  |  |  |
-| [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) |  |  |  |
-| [Remove All The Marked Elements of a List](https://www.codewars.com/kata/563089b9b7be03472d00002b) |  |  |  |
 
-## Day 301 -
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
+Day 338: 
+- [Reverse every other word in the string](https://www.codewars.com/kata/58d76854024c72c3e20000de) <sub>_kyu_</sub>
+- [The Power of Exponents](https://www.codewars.com/kata/53270633b7320eeb0500031d) <sub>_kyu_</sub>
+
+Day 337: 
+- [Vowels Back](https://www.codewars.com/kata/57cfd92c05c1864df2001563) <sub>_kyu_</sub>
+- [Capitals first!](https://www.codewars.com/kata/55c353487fe3cc80660001d4) <sub>_kyu_</sub>
+
+Day 336: [Lowest product of 4 consecutive numbers](https://www.codewars.com/kata/554e52e7232cdd05650000a0) <sub>_kyu_</sub>
+
+Day 335: [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023) <sub>_kyu_</sub>
+
+Day 334: [Grasshopper - Personalized Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7) <sub>_kyu_</sub>
+
+Day 333: [The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014) <sub>_kyu_</sub>
+
+Day 332: [Make the Deadfish swim](https://www.codewars.com/kata/51e0007c1f9378fa810002a9) <sub>_kyu_</sub>
+
+Day 331: [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) <sub>_kyu_</sub>
+
+Day 330: [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b) <sub>_kyu_</sub>
+
+Day 329: [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) <sub>_kyu_</sub>
+
+Day 328: [Transportation on vacation](https://www.codewars.com/kata/568d0dd208ee69389d000016) <sub>_kyu_</sub>
+
+Day 327: [Array Leaders (Array Series #3)](https://www.codewars.com/kata/5a651865fd56cb55760000e0) <sub>_kyu_</sub>
+
+Day 326: [String Merge!](https://www.codewars.com/kata/597bb84522bc93b71e00007e) <sub>_kyu_</sub>
+
+Day 325: [Alphabet War](https://www.codewars.com/kata/59377c53e66267c8f6000027) <sub>_kyu_</sub>
+
+Day 324: [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214) <sub>_kyu_</sub>
+
+Day 323: [Simple Jeringonza](https://www.codewars.com/kata/5aba0a08379d20026e0000be) <sub>_kyu_</sub>
+
+Day 322: [Count by X](https://www.codewars.com/kata/5513795bd3fafb56c200049e) <sub>_kyu_</sub>
+
+Day 321: [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) <sub>_kyu_</sub>
+
+Day 320: [Alphabetical Sequence](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a) <sub>_kyu_</sub>
+
+Day 319: [Second largest in Array](https://www.codewars.com/kata/578fe7e2149935740f000525) <sub>_kyu_</sub>
+
+Day 318: [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) <sub>_kyu_</sub>
+
+Day 317: [Largest pair sum in array](https://www.codewars.com/kata/556196a6091a7e7f58000018) <sub>_kyu_</sub>
+
+Day 316: [Simple letter removal](https://www.codewars.com/kata/5b728f801db5cec7320000c7) <sub>_kyu_</sub>
+
+Day 315: [Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e) <sub>_kyu_</sub>
+
+Day 314: [Name to Matrix](https://www.codewars.com/kata/5a91e0793e9156ccb0003f6e) <sub>_kyu_</sub>
+
+Day 313: [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) <sub>_kyu_</sub>
+
+Day 312: [Round to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d) <sub>_kyu_</sub>
+
+Day 311: [Beginner Series #3 Sum of Numbers]() <sub>_kyu_</sub>
+
+Day 310: [Is he gonna survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c) <sub>_kyu_</sub>
+
+Day 309: [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) <sub>_kyu_</sub>
+
+Day 308: [Dont drive too long!](https://www.codewars.com/kata/5835b48cd8bab5d6de00001c) <sub>_kyu_</sub>
+
+Day 307: [Minimize Sum Of Array (Array Series #1)](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) <sub>_kyu_</sub>
+
+Day 306: [Equalize the array!](https://www.codewars.com/kata/580a1a4af195dbc9ed00006c) <sub>_kyu_</sub>
+
+Day 305: [Word Challenges at School](https://www.codewars.com/kata/580be55ca671827cfd000043) <sub>_kyu_</sub>
+
+Day 304: [All Star Code Challenge #15](https://www.codewars.com/kata/586560a639c5ab3a260000f3) <sub>_kyu_</sub>
+
+Day 303: [Simple Fun #20: First Reverse Try](https://www.codewars.com/kata/5886c6b2f3b6ae33dd0000be) <sub>_kyu_</sub>
+
+Day 302:[Only one](https://www.codewars.com/kata/5734c38da41454b7f700106e)  <sub>_kyu_</sub>
+
+Day 301: [Grocer Grouping](https://www.codewars.com/kata/593c0ebf8b90525a62000221/) <sub>_kyu_</sub>
 
 ## Day 251 - 300
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
+Day 300: [Objectify all the strings](https://www.codewars.com/kata/55dd54631827120dd800002b) <sub>_kyu_</sub>
+
+Day 299: [Count the divisible numbers](https://www.codewars.com/kata/55a5c82cd8e9baa49000004c) <sub>_kyu_</sub>
+
+Day 298: [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) <sub>_kyu_</sub>
+
+Day 297: [Thinkful - String Drills: Repeater](https://www.codewars.com/kata/585a1a227cb58d8d740001c3) <sub>_kyu_</sub>
+
+Day 296: [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) <sub>_kyu_</sub>
+
+Day 295: [Switcheroo](https://www.codewars.com/kata/57f759bb664021a30300007d) <sub>_kyu_</sub>
+
+Day 294: [Narcissistic Numbers](https://www.codewars.com/kata/56b22765e1007b79f2000079) <sub>_kyu_</sub>
+
+Day 293: [Thinkful - List Drills: Longest word](https://www.codewars.com/kata/58670300f04e7449290000e5) <sub>_kyu_</sub>
+
+Day 292: [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) <sub>_kyu_</sub>
+
+Day 291: [Method For Counting Total Occurence Of Specific Digits](https://www.codewars.com/kata/56311e4fdd811616810000ce) <sub>_kyu_</sub>
+
+Day 290: [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) <sub>_kyu_</sub>
+
+Day 289: [Remove All The Marked Elements of a List](https://www.codewars.com/kata/563089b9b7be03472d00002b) <sub>_kyu_</sub>
+
+Day 288: [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) <sub>_kyu_</sub>
+
+Day 287: [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) <sub>_kyu_</sub>
+
+Day 286: [Hands Up](https://www.codewars.com/kata/56d8f14cba01a83cdb0002a2) <sub>_kyu_</sub>
+
+Day 285: [Catalog](https://www.codewars.com/kata/59d9d8cb27ee005972000045) <sub>_kyu_</sub>
+
+Day 284: [Who's Online?](https://www.codewars.com/kata/5b6375f707a2664ada00002a) <sub>_kyu_</sub>
+
+Day 283: [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) <sub>_kyu_</sub>
+
+Day 282: [Salesman's Travel](https://www.codewars.com/kata/56af1a20509ce5b9b000001e) <sub>_kyu_</sub>
+
+Day 281: [Shortest code: Father and Son](https://www.codewars.com/kata/56f928b19982cc7a14000c9d) <sub>_kyu_</sub>
+
+Day 280: [Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010) <sub>_kyu_</sub>
+
+Day 279: [Counting in the Amazon]() <sub>_kyu_</sub>
+
+Day 278: [Password Check - Binary to String](https://www.codewars.com/kata/5a731b36e19d14400f000c19) <sub>_kyu_</sub>
+
+Day 277: [Boiled Eggs](https://www.codewars.com/kata/52b5247074ea613a09000164) <sub>_kyu_</sub>
+
+Day 276: [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) <sub>_kyu_</sub>
+
+Day 275: 
+- [Integers: Recreation Two](https://www.codewars.com/kata/55e86e212fce2aae75000060) <sub>_kyu_</sub> 
+- [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d) <sub>_kyu_</sub>
+
+Day 274: [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) <sub>_kyu_</sub>
+
+Day 273: [Kooka Counter](https://www.codewars.com/kata/58e8cad9fd89ea0c6c000258) <sub>_kyu_</sub>
+
+Day 272: [The Arpeggiator](https://www.codewars.com/kata/563c823393305ec84e000048) <sub>_kyu_</sub>
+
+Day 271: [Scrolling Text](https://www.codewars.com/kata/5a995c2aba1bb57f660001fd) <sub>_kyu_</sub>
+
+Day 270: [Inspiring Strings](https://www.codewars.com/kata/5939ab6eed348a945f0007b2) <sub>_kyu_</sub>
+
+Day 269: [Pig Sursurunga](https://www.codewars.com/kata/5536aba6e4609cc6a600003d) <sub>_kyu_</sub>
+
+Day 268:  
+- [Would you believe... Talk like Siegfried](https://www.codewars.com/kata/57fd6c4fa5372ead1f0004aa) <sub>_kyu_</sub>
+- [Age in Days](https://www.codewars.com/kata/5803753aab6c2099e600000e) 
+
+Day 267: [Guess the gifts](https://www.codewars.com/kata/52ae6b6623b443d9090002c8) <sub>_kyu_</sub>
+
+Day 266: [Build a square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c) <sub>_kyu_</sub>
+
+Day 265: [Battle of the characters (Medium)](https://www.codewars.com/kata/595e9f258b763bc2d2000032) <sub>_kyu_</sub>
+
+Day 264: [Battle of the characters (Easy)](https://www.codewars.com/kata/595519279be6c575b5000016) <sub>_kyu_</sub>
+
+Day 263: [Fibonacci, Tribonacci and friends](https://www.codewars.com/kata/556e0fccc392c527f20000c5) <sub>_kyu_</sub>
+
+Day 262: [Sum Consecutives](https://www.codewars.com/kata/55eeddff3f64c954c2000059) <sub>_kyu_</sub>
+
+Day 261: [Find the word pair!](https://www.codewars.com/kata/5aaae0f5fd8c069e8c00016e) <sub>_kyu_</sub>
+
+Day 260: [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) <sub>_kyu_</sub>
+
+Day 259: [Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) <sub>_kyu_</sub>
+
+Day 258: [SNAP](https://www.codewars.com/kata/5b49cc5a578c6ab6b200004c) <sub>_kyu_</sub>
+
+Day 257: [Some Circles](https://www.codewars.com/kata/56143efa9d32b3aa65000016) <sub>_kyu_</sub>
+
+Day 256: [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) <sub>_kyu_</sub>
+
+Day 255: [Corner circle](https://www.codewars.com/kata/5898761a9c700939ee000011) <sub>_kyu_</sub>
+
+Day 254: [Prime Numbers](https://www.codewars.com/kata/52dd72494367608ac1000416) <sub>_kyu_</sub>
+
+Day 253: [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) <sub>_kyu_</sub>
+
+Day 252: [Simple Fun #316: Buy Fruits](https://www.codewars.com/kata/5934c24ed953868340000014) <sub>_kyu_</sub>
+
+Day 251: [Find the middle element](https://www.codewars.com/kata/545a4c5a61aa4c6916000755) <sub>_kyu_</sub>
 
 ## Day 201 - 250
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
-Day 000:  <sub>_kyu_</sub>
+Day 250: [Perimeter of squares in a rectangle](https://www.codewars.com/kata/559a28007caad2ac4e000083) <sub>_kyu_</sub>
+
+Day 240: ["Consonant Please"](https://www.codewars.com/kata/59727e04f6a02d0cde00001a) <sub>_kyu_</sub>
+
+Day 248: [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6) <sub>_kyu_</sub>
+
+Day 247: [Number Format](https://www.codewars.com/kata/565c4e1303a0a006d7000127) <sub>_kyu_</sub>
+
+Day 246: [Convert the score](https://www.codewars.com/kata/5b6c220fa0a661fbf200005d) <sub>_kyu_</sub>
+
+Day 245: [Cat and Mouse - Easy Version](https://www.codewars.com/kata/57ee24e17b45eff6d6000164) <sub>_kyu_</sub>
+
+Day 244: [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) <sub>_kyu_</sub>
+
+Day 243: [Form The Largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) <sub>_kyu_</sub>
+
+Day 242: [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) <sub>_kyu_</sub>
+
+Day 241: [Single Word Pig Latin](https://www.codewars.com/kata/558878ab7591c911a4000007) <sub>_kyu_</sub>
+
+Day 240: [Maximum Triplet Sum (Array Series #7)](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) <sub>_kyu_</sub>
+
+Day 239: [Get Nth Even Number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed) <sub>_kyu_</sub>
+
+Day 238: [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) <sub>_kyu_</sub>
+
+Day 237: [String Reversing, Changing case, etc.](https://www.codewars.com/kata/58305403aeb69a460b00019a) <sub>_kyu_</sub>
+
+Day 236: [Odd Not Prime](https://www.codewars.com/kata/5a9996fa8e503f2b4a002e7a) <sub>_kyu_</sub>
+
+Day 235: [Not prime numbers](https://www.codewars.com/kata/5a9a70cf5084d74ff90000f7) <sub>_kyu_</sub>
+
+Day 234: [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) <sub>_kyu_</sub>
+
+Day 233: [Is Number Prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) <sub>_kyu_</sub>
+
+Day 232: [Simple Fun #265: The Janitor And His Mop](https://www.codewars.com/kata/59128363e5bc24091a00006f) <sub>_kyu_</sub>
+
+Day 231: [Numbers of Letters of Numbers](https://www.codewars.com/kata/599febdc3f64cd21d8000117) <sub>_kyu_</sub>
 
 Day 230: [Time-like string format](https://www.codewars.com/kata/51e000d070fe4414000003f0) <sub>_kyu_</sub>
 
